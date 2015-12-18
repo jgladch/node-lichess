@@ -24,7 +24,7 @@ let r = (route, options, callback) => {
     if (error) {
       callback(error, null);
     } else {
-      callback(null, body);
+      callback(null, JSON.parse(body));
     }
   });
 };
