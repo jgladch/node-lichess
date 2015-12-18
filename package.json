@@ -1,11 +1,8 @@
 {
   "name": "node-lichess",
-  "version": "1.0.1",
-  "description": "",
+  "version": "1.0.2",
+  "description": "en.lichess.org API convenience wrapper",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "author": "Jeff Gladchun <jeffgladchun@gmail.com>",
   "repository": {
     "type" : "git",
